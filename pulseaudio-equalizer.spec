@@ -66,3 +66,10 @@ install -Dpm 644 %{SOURCE2} %{buildroot}/%{_mandir}/man1/%{name}-gtk.1
 %{_datadir}/%{name}
 %{_mandir}/man1/%{name}.1.*
 %{_mandir}/man1/%{name}-gtk.1.*
+
+
+%changelog
+* Sat Jan 21 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.1-0.20100205.1
++ Revision: 763412
+- imported package pulseaudio-equalizer
+

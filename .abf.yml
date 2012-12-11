@@ -1,4 +1,2 @@
 sources:
-  "pulseaudio-equalizer-0.1.tar.xz:"	eafe6248e9a0833fb9f35e9f1220245697240bdb
-  "pulseaudio-equalizer.1:"	3d6c3dd0112e5678373691b5d14e0dfa37802708
-  "pulseaudio-equalizer-gtk.1:"	a2d2a7b6006d8eaaff94085071daa5ae116c4334
+  "pulseaudio-equalizer-0.1.tar.xz": eafe6248e9a0833fb9f35e9f1220245697240bdb
