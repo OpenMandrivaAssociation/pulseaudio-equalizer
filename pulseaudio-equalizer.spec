@@ -2,7 +2,7 @@
 
 Name:           pulseaudio-equalizer
 Version:        0.1
-Release:        0.20100205.1
+Release:        0.20100205.2
 Summary:        A 15 Bands Equalizer for PulseAudio
 
 Group:          Sound
